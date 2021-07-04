@@ -1,0 +1,17 @@
+GoChat - Chat without saving contact (No ADS)
+
+Utility App that allows to chat with anyone on WhatsApp without saving contact
+
+GoChat is a great tool for your favourite messenger app to send messages to any numbers those are not saved in your contacts.
+
+*Features*
+
+-- Open Chat of Selected Number --
+
+1. Select a 10 digit number anywhere and click on 3 dot menu.
+2. Click on Open WhatsApp chat.
+
+-- Send Selected Text through WhatsApp --
+
+1. Select text anywhere and click on 3 dot menu.
+2. Click on Share this through WhatsApp.
