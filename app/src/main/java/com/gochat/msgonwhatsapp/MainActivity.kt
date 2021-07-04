@@ -11,7 +11,7 @@ import com.hbb20.CountryCodePicker
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding:ActivityMainBinding
-    lateinit var ccp : CountryCodePicker
+    private lateinit var ccp : CountryCodePicker
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
