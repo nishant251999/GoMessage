@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
             binding.tiNum.prefixText = "+$countryCode "
         }
 
-        //comment for master commit
+        //comment for master branch
         //checking if whatsapp is installed or not
         if(!isPackageInstalled(packageName, packageManager))
             Toast.makeText(this, "Please install WhatsApp first", Toast.LENGTH_SHORT).show()
