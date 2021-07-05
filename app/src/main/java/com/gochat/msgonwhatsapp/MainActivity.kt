@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         //comment for exp commit
+        //checking if whatsapp is installed or not
         if(!isPackageInstalled(packageName, packageManager))
             Toast.makeText(this, "Please install WhatsApp first", Toast.LENGTH_SHORT).show()
 
