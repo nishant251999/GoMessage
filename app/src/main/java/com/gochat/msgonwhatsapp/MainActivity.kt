@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         //comment for master branch
-        //changed comment altogether
+        //comment 1
         if(!isPackageInstalled(packageName, packageManager))
             Toast.makeText(this, "Please install WhatsApp first", Toast.LENGTH_SHORT).show()
 
