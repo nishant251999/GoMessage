@@ -29,9 +29,6 @@ class MainActivity : AppCompatActivity() {
             binding.tiNum.prefixText = "+$countryCode "
         }
 
-        //example comment
-        //This is from experiment
-        //check if whatsapp is installed
         if(!isPackageInstalled(packageName, packageManager))
             Toast.makeText(this, "Please install WhatsApp first", Toast.LENGTH_SHORT).show()
 
